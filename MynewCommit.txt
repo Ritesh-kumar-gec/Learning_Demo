@@ -1,0 +1,2 @@
+This is second commit after learning pull request
+and every one is my 
